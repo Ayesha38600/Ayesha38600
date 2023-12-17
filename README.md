@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayesha Usman</h1>
 <h3 align="center">A passionate Computer Systems Engineer From Pak!</h3>
- <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToOkcOXCNsWN2slvX-Rzue2r0TpsSydUYVaC2V8qV3JQvUKgtSeFyTe27NVNI4tD8Vyno&usqp=CAU">
+ <img align="right" alt="coding" width=300 height=300 src="https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif">
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=ayesha38600&label=Profile%20views&color=0e75b6&style=flat" alt="ayesha38600" /> </p>
@@ -20,6 +20,8 @@
 - 📫 How to reach me **uayesha731@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/Ayesha38600/Resume](https://github.com/Ayesha38600/Resume)
+
+(https://github-readme-stats.vercel.app/api?username=ayesha38600&theme=red)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
