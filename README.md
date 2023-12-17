@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayesha Usman</h1>
 <h3 align="center">A passionate Computer Systems Engineer From Pak!</h3>
- <img align="right" alt="coding" width=300 height=300 src="https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif">
+ <img align="right" alt="coding" width=300 height=250 src="https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif">
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=ayesha38600&label=Profile%20views&color=0e75b6&style=flat" alt="ayesha38600" /> </p>
